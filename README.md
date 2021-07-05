@@ -37,6 +37,8 @@ Resource Pack supported version is __1.16.5__
  * "When sun is sus :flushed:"
  * Suspicious experience orb
  * End portal was not an impostor
+ * Distractive diamond block
+ * When gold block is sus :flushed:
 
 ### Sounds:
  * Nether portal trigger sound (TODO: make portal silent)
