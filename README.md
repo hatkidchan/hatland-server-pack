@@ -53,9 +53,10 @@ Resource Pack supported version is __1.16.5__
 
 ### Music
  * `11.ogg` -> [Nightmargin - Eleventh Hour](https://www.youtube.com/watch?v=pVX8bdYCAUo)
+ * `13.ogg` -> [Among Us Trap Remix](http://www.youtube.com/watch?v=grd-K33tOSM)
  * `mellohi.ogg` -> [Nature & Traktor - Jesus Christ Motocross](https://www.youtube.com/watch?v=At6JxWg7Rk8)
  * `strad.ogg` -> [Andy Whitby – Until The Grave](https://www.youtube.com/watch?v=aUh0-eFm_nM)
- * `mall.ogg` -> [Toby Fox - Hip Shop](https://www.youtube.com/watch?v=D83BxptHcRc)
+ * `mall.ogg` -> [Toby Fox - Hip Shop (LoFi Remix)](https://www.youtube.com/watch?v=BiaFMRv7Ct8)
  * `calm3.ogg` -> [C418 - Sweden (Trap Remix)](https://www.youtube.com/watch?v=rgZ56QGwxp0)
  * `end/end.ogg` -> [Kashiwa Daisuke - Something is lost](https://www.youtube.com/watch?v=UZ5PJij0lGI)
  * `music.letov.nahui` -> "Егор Летов - Пошли вы все на хуй"
