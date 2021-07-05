@@ -34,7 +34,7 @@ Resource Pack supported version is __1.16.5__
 
 ### Generic:
  * Secret message in the sky
- * Suspicious sun
+ * "When sun is sus :flushed:"
  * Suspicious experience orb
  * End portal was not an impostor
 
