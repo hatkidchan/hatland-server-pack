@@ -15,9 +15,6 @@ extras_directory = project_root / "extra_files"
 custom_sounds = project_root / "custom_sounds"
 custom_languages = project_root / "custom_languages"
 
-pack_description = ""
-pack_version = 6
-
 def add_tree(zipf, path_from, path_to=""):
     for (dpath, _, fnames) in walk(path_from):
         for fname in fnames:
@@ -26,7 +23,6 @@ def add_tree(zipf, path_from, path_to=""):
             zipf.write(realpath, Path(path_to, relpath))
             print(" + {}".format(relpath))
 
-
 with ZipFile(argv[2], "w") as zipf:
     add_tree(zipf, extras_directory)
     add_tree(zipf, custom_sounds, "assets/minecraft/sounds")
@@ -34,8 +30,8 @@ with ZipFile(argv[2], "w") as zipf:
     zipf.write(project_root / "sounds.json", "assets/minecraft/sounds.json")
     zipf.writestr("pack.mcmeta", dumps({
         "pack": {
-            "pack_format": pack_version,
-            "description": pack_description
+            "description": "Server resource pack",
+            "pack_format": 6,
         }
     }, indent=2))
     add_tree(zipf, project_files)
