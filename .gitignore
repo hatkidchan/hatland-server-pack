@@ -1,1 +1,4 @@
 pack.zip
+.*
+*.swp
+*~
