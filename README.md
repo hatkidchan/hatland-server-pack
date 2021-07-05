@@ -50,10 +50,14 @@ Resource Pack supported version is __1.16.5__
    * Wood
 
 ### Music
- * `11.ogg` -> [Nightmargin - Eleventh Hour](http://www.youtube.com/watch?v=pVX8bdYCAUo)
+ * `11.ogg` -> [Nightmargin - Eleventh Hour](https://www.youtube.com/watch?v=pVX8bdYCAUo)
  * `mellohi.ogg` -> [Nature & Traktor - Jesus Christ Motocross](https://www.youtube.com/watch?v=At6JxWg7Rk8)
- * `strad.ogg` -> [Andy Whitby – Until The Grave](http://www.youtube.com/watch?v=aUh0-eFm_nM)
+ * `strad.ogg` -> [Andy Whitby – Until The Grave](https://www.youtube.com/watch?v=aUh0-eFm_nM)
+ * `mall.ogg` -> [Toby Fox - Hip Shop](https://www.youtube.com/watch?v=D83BxptHcRc)
+ * `calm3.ogg` -> [C418 - Sweden (Trap Remix)](https://www.youtube.com/watch?v=rgZ56QGwxp0)
+ * `end/end.ogg` -> [Kashiwa Daisuke - Something is lost](https://www.youtube.com/watch?v=UZ5PJij0lGI)
  * `music.letov.nahui` -> "Егор Летов - Пошли вы все на хуй"
+ * `music.dance.distraction` -> [Distraction dance but it's Megalovania](https://www.youtube.com/watch?v=SvTWKhmVous)
 
 ### Language:
 All language-related changes are made just to change record titles and/or
