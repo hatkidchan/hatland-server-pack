@@ -1,1 +1,11 @@
-{}
+{
+  "music.letov.nahui": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "letov_nahui",
+        "stream": true
+      }
+    ]
+  }
+}
