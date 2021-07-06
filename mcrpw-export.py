@@ -30,8 +30,8 @@ with ZipFile(argv[2], "w") as zipf:
     zipf.write(project_root / "sounds.json", "assets/minecraft/sounds.json")
     zipf.writestr("pack.mcmeta", dumps({
         "pack": {
-            "description": "Server resource pack",
-            "pack_format": 6,
+            "description": "https://github.com/hatkidchan/hatland-server-pack",
+            "pack_format": 7,
         }
     }, indent=2))
     add_tree(zipf, project_files)
