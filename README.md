@@ -10,17 +10,22 @@ Resource Pack supported version is __1.16.5__
  * `aztec.png` -> Contentaware Hat Kid
  * `aztec2.png` -> "и че это"
  * `bomb.png` -> Sus
+ * `burning_skull.png` -> Default
  * `bust.png` -> Macintosh Plus
  * `courbet.png` -> Creepy hamster
  * `creebet.png` -> Niko in mines
+ * `donkey_kong.png` -> Default
  * `fighters.png` -> Niko in Refuge
  * `graham.png` -> Lamplighter moment
  * `kebab.png` -> All yoba pshhhhhh
+ * `match.png` -> Default
  * `pigscene.png` -> Rue & Niko in Refuge
  * `plant.png` -> Stas
+ * `pointer.png` -> Default
  * `pool.png` -> `fighters.png` (we should change?)
  * `sea.png` -> Mae with computer
  * `skeleton.png` -> Some painting by gengusha
+ * `skull_and_roses.png` -> Nikoaf
  * `stage.png` -> Lamplighter eating pancakes
  * `sunset.png` -> Niko in Glen
  * `void.png` -> Hat Kid painting
@@ -30,7 +35,7 @@ Resource Pack supported version is __1.16.5__
  * back side -> amogus
 
 ### GUI:
- * Dark mode (TODO: finish)
+ * Dark mode (by: nebulr)
 
 ### Generic:
  * Secret message in the sky
@@ -52,15 +57,22 @@ Resource Pack supported version is __1.16.5__
    * Wood
 
 ### Music
- * `11.ogg` -> [Nightmargin - Eleventh Hour](https://www.youtube.com/watch?v=pVX8bdYCAUo)
- * `13.ogg` -> [Among Us Trap Remix](http://www.youtube.com/watch?v=grd-K33tOSM)
- * `mellohi.ogg` -> [Nature & Traktor - Jesus Christ Motocross](https://www.youtube.com/watch?v=At6JxWg7Rk8)
- * `strad.ogg` -> [Andy Whitby – Until The Grave](https://www.youtube.com/watch?v=aUh0-eFm_nM)
- * `mall.ogg` -> [Toby Fox - Hip Shop (LoFi Remix)](https://www.youtube.com/watch?v=BiaFMRv7Ct8)
- * `calm3.ogg` -> [C418 - Sweden (Trap Remix)](https://www.youtube.com/watch?v=rgZ56QGwxp0)
- * `end/end.ogg` -> [Kashiwa Daisuke - Something is lost](https://www.youtube.com/watch?v=UZ5PJij0lGI)
+ * `13.ogg` -> [Among Us Trap Remix](http://youtu.be/grd-K33tOSM)
+ * `cat.ogg` -> Default
+ * `blocks.ogg` -> [Exotic Butters Remix](https://youtu.be/kY1kbCDwHIg)
+ * `chirp.ogg` -> Default
+ * `far.ogg` -> Default
+ * `mall.ogg` -> [Toby Fox - Hip Shop (LoFi Remix)](https://youtu.be/BiaFMRv7Ct8)
+ * `mellohi.ogg` -> [Nature & Traktor - Jesus Christ Motocross](https://youtu.be/At6JxWg7Rk8)
+ * `stal.ogg` -> [The Living Tombstone - It's been so long](https://youtu.be/dy9ugPD6_AE)
+ * `strad.ogg` -> [Andy Whitby – Until The Grave](https://youtu.be/aUh0-eFm_nM)
+ * `ward.ogg` -> [Hatsune Miku - Fondant Step](https://youtu.be/vNhvnj33foU)
+ * `11.ogg` -> [Nightmargin - Eleventh Hour](https://youtu.be/pVX8bdYCAUo)
+ * `wait.ogg` -> [Initial D - Gas Gas Gas](https://youtu.be/atuFSv2bLa8)
+ * `calm3.ogg` -> [C418 - Sweden (Trap Remix)](https://youtu.be/rgZ56QGwxp0)
+ * `end/end.ogg` -> [Kashiwa Daisuke - Something is lost](https://youtu.be/UZ5PJij0lGI)
  * `music.letov.nahui` -> "Егор Летов - Пошли вы все на хуй"
- * `music.dance.distraction` -> [Distraction dance but it's Megalovania](https://www.youtube.com/watch?v=SvTWKhmVous)
+ * `music.dance.distraction` -> [Distraction dance but it's Megalovania](https://youtu.be/SvTWKhmVous)
 
 ### Language:
 All language-related changes are made just to change record titles and/or
