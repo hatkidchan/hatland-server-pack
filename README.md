@@ -60,7 +60,7 @@ Resource Pack supported version is __1.16.5__
  * `13.ogg` -> [Among Us Trap Remix](http://youtu.be/grd-K33tOSM)
  * `cat.ogg` -> Default
  * `blocks.ogg` -> [Exotic Butters Remix](https://youtu.be/kY1kbCDwHIg)
- * `chirp.ogg` -> Default
+ * `chirp.ogg` -> "Андрей Губин - Ночь"
  * `far.ogg` -> Default
  * `mall.ogg` -> [Toby Fox - Hip Shop (LoFi Remix)](https://youtu.be/BiaFMRv7Ct8)
  * `mellohi.ogg` -> [Nature & Traktor - Jesus Christ Motocross](https://youtu.be/At6JxWg7Rk8)
