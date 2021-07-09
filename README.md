@@ -2,7 +2,7 @@
 
 Made by [hatkidchan](https://github.com/hatkidchan), contributions by [thehatkid (aka. hat\_kid)](https://github.com/thehatkid).
 
-Resource Pack supported version is __1.16.5__
+Resource Pack supported version is __1.17+__
 
 ## List of changes:
 ### Paintings:
