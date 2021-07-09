@@ -10,6 +10,7 @@
     },
     "music.dance.distraction": {
         "category": "player",
+        "subtitle": "subtitles.music.distraction",
         "sounds": [
             {
                 "name": "distraction",
