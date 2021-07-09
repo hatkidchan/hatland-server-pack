@@ -18,27 +18,29 @@
         ]
     },
     "item.spyglass.stop_using": {
-        "replace": 1,
+        "replace": true,
         "sounds": [
             {
                 "name": "item/spyglass/stop",
-                "volume": 0.5
+                "volume": 0.5,
+                "pitch": 1.0
             }
         ],
         "subtitle": "subtitles.item.spyglass.stop_using"
     },
     "item.spyglass.use": {
-        "replace": 1,
+		"replace": true,
         "sounds": [
             {
                 "name": "item/spyglass/use",
-                "volume": 0.5
+                "volume": 0.5,
+                "pitch": 1.0
             }
         ],
         "subtitle": "subtitles.item.spyglass.use"
     },
     "music.nether.crimson_forest": {
-        "replace": 1,
+        "replace": true,
         "sounds": [
             {
                 "name": "music/game/nether/crimson_forest/chrysopoeia",
