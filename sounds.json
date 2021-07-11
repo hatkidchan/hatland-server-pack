@@ -1,73 +1,23 @@
 {
-    "music.letov.nahui": {
-        "category": "music",
-        "sounds": [
-            {
-                "name": "letov_nahui",
-                "stream": true
-            }
-        ]
-    },
-    "music.dance.distraction": {
-        "category": "player",
-        "subtitle": "subtitles.music.distraction",
-        "sounds": [
-            {
-                "name": "distraction",
-                "stream": true
-            }
-        ]
-    },
-    "item.spyglass.stop_using": {
-        "replace": true,
-        "sounds": [
-            {
-                "name": "item/spyglass/stop",
-                "volume": 0.5,
-                "pitch": 1.0
-            }
-        ],
-        "subtitle": "subtitles.item.spyglass.stop_using"
-    },
-    "item.spyglass.use": {
-		"replace": true,
-        "sounds": [
-            {
-                "name": "item/spyglass/use",
-                "volume": 0.5,
-                "pitch": 1.0
-            }
-        ],
-        "subtitle": "subtitles.item.spyglass.use"
-    },
-    "music.nether.crimson_forest": {
-        "replace": true,
-        "sounds": [
-            {
-                "name": "music/game/nether/crimson_forest/chrysopoeia",
-                "stream": true,
-                "weight": 1
-            },
-            {
-                "name": "music/game/nether/nether1",
-                "stream": true,
-                "weight": 1
-            },
-            {
-                "name": "music/game/nether/nether2",
-                "stream": true,
-                "weight": 1
-            },
-            {
-                "name": "music/game/nether/nether3",
-                "stream": true,
-                "weight": 1
-            },
-            {
-                "name": "music/game/nether/nether4",
-                "stream": true,
-                "weight": 1
-            }
-        ]
-    }
+  "music.letov.nahui": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "letov_nahui",
+        "stream": true
+      }
+    ]
+  },
+  "music.dance.distraction": {
+    "category": "music",
+    "sounds": [
+      "distraction"
+    ]
+  },
+  "ambient.win95": {
+    "category": "ambient",
+    "sounds": [
+      "windows95"
+    ]
+  }
 }
