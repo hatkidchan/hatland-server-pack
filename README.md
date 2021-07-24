@@ -4,6 +4,19 @@ Made by [hatkidchan](https://github.com/hatkidchan), contributions by [thehatkid
 
 Resource Pack supported version is __1.17+__
 
+## Copyright notice
+I do not own any of artworks and/or music, unless specified other.
+All artworks and music have their authors listed, if available.
+In case of copyright strike, please, submit it via [issues page](https://github.com/hatkidchan/hatland-server-pack/issues).
+I will remove anything if required, or add credit to author if there isn't one 
+already. This resouce pack has no donations page nor it give us any income at
+all. Please, keep that in mind.
+
+### OneShot assets
+This resource pack uses some assets from game "OneShot", such as 4 paintings
+and 1 music disc ("cg\_red.png", "cg\_green.png", "cg\_blue.png", "sol\_mine1.png"
+and "Elevent Hour" respectively)
+
 ## List of changes:
 ### Paintings:
  * `alban.png` -> `Oliver` (Tem pfp)
@@ -17,14 +30,14 @@ Resource Pack supported version is __1.17+__
  * `donkey_kong.png` -> Default
  * `fighters.png` -> Niko in Refuge
  * `graham.png` -> Lamplighter moment
- * `kebab.png` -> All yoba pshhhhhh
- * `match.png` -> Default
+ * `kebab.png` -> Allo yoba pshhhhhh
+ * `match.png` -> `Look I'm on painting` by Dan4a
  * `pigscene.png` -> Rue & Niko in Refuge
  * `plant.png` -> Stas
  * `pointer.png` -> Default
- * `pool.png` -> `fighters.png` (we should change?)
+ * `pool.png` -> `Aices` by [DinoBoiRex1](https://twitter.com/DinoBoiRex1)
  * `sea.png` -> Mae with computer
- * `skeleton.png` -> Some painting by gengusha
+ * `skeleton.png` -> Some painting by [gengusha](https://t.me/gengusha/103)
  * `skull_and_roses.png` -> Nikoaf
  * `stage.png` -> Lamplighter eating pancakes
  * `sunset.png` -> Niko in Glen
@@ -39,7 +52,7 @@ Resource Pack supported version is __1.17+__
 
 ### Generic:
  * Secret message in the sky
- * "When sun is sus :flushed:"
+ * ~~"When sun is sus :flushed:"~~ removed now
  * Suspicious experience orb
  * End portal was not an impostor
  * Distractive diamond block
