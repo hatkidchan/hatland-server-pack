@@ -5,7 +5,7 @@ from sys import argv
 from os import walk
 from json import dumps
 
-if len(argv) != 3:
+if len(argv) < 3:
     print("Usage: {} [project root] [output.zip]".format(argv[0]))
     exit(2)
 
@@ -35,7 +35,7 @@ with ZipFile(argv[2], "w") as zipf:
         add_file(zipf, project_root / "sounds.json", "assets/minecraft/sounds.json")
     zipf.writestr("pack.mcmeta", dumps({
         "pack": {
-            "description": "https://github.com/hatkidchan/hatland-server-pack",
+            "description": argv[2] if len(argv) >= 4 else '',
             "pack_format": 7,
         }
     }, indent=2))
