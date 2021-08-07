@@ -14,8 +14,8 @@ all. Please, keep that in mind.
 
 ### OneShot assets
 This resource pack uses some assets from game "OneShot", such as 4 paintings
-and 1 music disc ("cg\_red.png", "cg\_green.png", "cg\_blue.png", "sol\_mine1.png"
-and "Elevent Hour" respectively)
+and some music discs ("cg\_red.png", "cg\_green.png", "cg\_blue.png",
+"sol\_mine1.png"; music discs are shown in section [Music](#music))
 
 ## List of changes:
 ### Paintings:
@@ -43,7 +43,7 @@ and "Elevent Hour" respectively)
  * `sunset.png` -> Niko in Glen
  * `void.png` -> Hat Kid painting
  * `wanderer.png` -> Niko in Barrens
- * `wasteland.png` -> hatkidchan pfp
+ * `wasteland.png` -> [Dancing Niko](https://twitter.com/avolicis/status/1387725826465075205)
  * `wither.png` -> Niko
  * back side -> amogus
 
@@ -70,22 +70,21 @@ and "Elevent Hour" respectively)
    * Wood
 
 ### Music
- * `13.ogg` -> [Among Us Trap Remix](http://youtu.be/grd-K33tOSM)
- * `cat.ogg` -> Default
- * `blocks.ogg` -> [Exotic Butters Remix](https://youtu.be/kY1kbCDwHIg)
- * `chirp.ogg` -> "Андрей Губин - Ночь"
- * `far.ogg` -> Default
- * `mall.ogg` -> [Toby Fox - Hip Shop (LoFi Remix)](https://youtu.be/BiaFMRv7Ct8)
- * `mellohi.ogg` -> [Nature & Traktor - Jesus Christ Motocross](https://youtu.be/At6JxWg7Rk8)
- * `stal.ogg` -> [The Living Tombstone - It's been so long](https://youtu.be/dy9ugPD6_AE)
- * `strad.ogg` -> [Andy Whitby – Until The Grave](https://youtu.be/aUh0-eFm_nM)
- * `ward.ogg` -> [Hatsune Miku - Fondant Step](https://youtu.be/vNhvnj33foU)
- * `11.ogg` -> [Nightmargin - Eleventh Hour](https://youtu.be/pVX8bdYCAUo)
- * `wait.ogg` -> [Initial D - Gas Gas Gas](https://youtu.be/atuFSv2bLa8)
- * `calm3.ogg` -> [C418 - Sweden (Trap Remix)](https://youtu.be/rgZ56QGwxp0)
- * `end/end.ogg` -> [Kashiwa Daisuke - Something is lost](https://youtu.be/UZ5PJij0lGI)
- * `music.letov.nahui` -> "Егор Летов - Пошли вы все на хуй"
- * `music.dance.distraction` -> [Distraction dance but it's Megalovania](https://youtu.be/SvTWKhmVous)
+ *  `13.ogg` -> [Among Us Trap Remix](http://youtu.be/grd-K33tOSM)
+ *  `cat.ogg` -> [Nothing](#)
+ *  `blocks.ogg` -> [Exotic Butters Remix](https://youtu.be/kY1kbCDwHIg)
+ *  `chirp.ogg` -> [Justice x Gorillaz - To the D.A.R.E.](https://youtu.be/hAQwAuBT1-M)
+ *  `far.ogg` -> [Nightmargin (Casey Gu) and Michael Shirt - Distant](https://youtu.be/6vSWIBrlN6Y)
+ *  `mall.ogg` -> [Toby Fox - Hip Shop (LoFi Remix)](https://youtu.be/BiaFMRv7Ct8)
+ *  `mellohi.ogg` -> [Nothing](#)
+ *  `stal.ogg` -> [The Living Tombstone - It's been so long](https://youtu.be/dy9ugPD6_AE)
+ *  `strad.ogg` -> [Nightmargin – Puzzle Solved (GIRakaCHEEZER remix)](https://youtu.be/XWTzhi7YdaM)
+ *  `ward.ogg` -> [Hatsune Miku - Fondant Step](https://youtu.be/vNhvnj33foU)
+ *  `11.ogg` -> [Nightmargin - Eleventh Hour](https://youtu.be/pVX8bdYCAUo)
+ *  `wait.ogg` -> [Nightmargin - Library](https://youtu.be/wUOUTo1tfuk)
+ *  `calm3.ogg` -> [C418 - Sweden (Trap Remix)](https://youtu.be/rgZ56QGwxp0)
+ *  `end1.ogg` -> [Nightmargin – Pretty](https://youtu.be/xvfJpgZHxRU)
+ *  `end2.ogg` -> [Nightmargin - Out of Protocol](https://youtu.be/5U1vvVKALqU)
 
 ### Language:
 All language-related changes are made just to change record titles and/or

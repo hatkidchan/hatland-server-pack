@@ -1,23 +1,4 @@
 {
-    "music.letov.nahui": {
-        "category": "music",
-        "sounds": [
-            {
-                "name": "letov_nahui",
-                "stream": true
-            }
-        ]
-    },
-    "music.dance.distraction": {
-        "category": "player",
-        "subtitle": "subtitles.music.distraction",
-        "sounds": [
-            {
-                "name": "distraction",
-                "stream": true
-            }
-        ]
-    },
     "ambient.win95": {
         "category": "ambient",
         "sounds": [
@@ -75,5 +56,20 @@
             }
         ],
         "subtitle": "subtitles.item.spyglass.use"
+    },
+    "music.end": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/end/end1",
+                "stream": true,
+                "weight": 1
+            },
+            {
+                "name": "music/game/end/end2",
+                "stream": true,
+                "weight": 1
+            }
+        ]
     }
 }
